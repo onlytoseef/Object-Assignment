@@ -1,0 +1,43 @@
+#nav{
+    background-color: #1b4965 !important ;  
+    
+}
+a{
+    color: white !important;
+}
+body{
+    background-color: #eaf4f4;
+}
+button{
+    width: 300px;
+}
+input{
+    background: transparent;
+    border: 1px solid black;
+    border-radius: 3px;
+    margin: 5px;
+}
+#email{
+    width: 185px;
+    margin-left: -px;
+    
+}#dake{
+    width: 185px;
+}
+#addUser{
+    width: 250px;
+    margin-top: 20px;
+}
+::placeholder{
+    text-align: center;
+}
+#output-box{
+    height: 6rem;
+}
+footer{
+    background-color: #1b4965;
+
+}
+main{
+    flex: 1 0 auto;
+}
